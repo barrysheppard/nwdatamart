@@ -1,3 +1,6 @@
-# nwdatamart
+# NW Data Mart Assignment
 
-Coursework for data warehousing course
+Data warehousing course assignment.
+Data Mart designed and created from existing SQL database ready for analysis.
+
+SQL
